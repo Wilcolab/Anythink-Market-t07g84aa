@@ -1,2 +1,3 @@
-# Example path
-/src @hhosseinid
+# This is a comment
+/docs/ @documentation-team
+/src/ @frontend-team
